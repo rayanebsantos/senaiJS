@@ -3,3 +3,5 @@
 atribua seu nome completo como valor dela
 */
 
+let name = "Felippe Nascimento";
+console.log(name);
