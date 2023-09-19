@@ -3,6 +3,3 @@
 e atribua à ela o valor boleano de acordo 
 com a sua condição de motorista.
 */
-
-const hasDriversLicense = false;
-console.log(hasDriversLicense);
